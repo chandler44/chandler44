@@ -1,18 +1,20 @@
---------------------------------------
-
 # Chandler Glover
 
 ## Cloud & DevOps Engineer
 
-Building cloud infrastructure, automating deployments, and creating real-world DevOps projects while preparing for my first Cloud & DevOps engineering role.
+Self-taught Cloud & DevOps engineer focused on building cloud infrastructure, automating deployments, and solving real-world engineering problems. I'm currently developing hands-on projects while pursuing my first Cloud & DevOps engineering opportunity.
+
+---
 
 ## Current Focus
 
-• AWS
-• Docker
-• Python
-• Linux
-• GitHub Actions
+- AWS
+- Docker
+- Python
+- Linux
+- GitHub Actions
+
+---
 
 ## Featured Projects
 
@@ -20,23 +22,31 @@ Building cloud infrastructure, automating deployments, and creating real-world D
 
 Dockerized Flask application displaying real-time server information and system metrics.
 
-**Tech:** Python • Flask • DockerServer Dashboard
+**Technologies:** Python • Flask • Docker
+
+---
 
 ### CI/CD Static Website
 
-Static website deployed automatically using GitHub Actions and AWS.
+Automated deployment of a static website using GitHub Actions and AWS services.
 
-**Tech:** GitHub Actions • AWS S3 • CloudFront
+**Technologies:** GitHub Actions • AWS S3 • CloudFront
 
-Terraform Infrastructure (In Progress)
+---
+
+### Terraform Infrastructure *(Coming Soon)*
+
+Infrastructure as Code project demonstrating automated AWS resource provisioning using Terraform.
+
+---
 
 ## Currently Learning
 
-Kubernetes
+- Kubernetes
+- Monitoring & Logging
+- Infrastructure as Code
 
-Monitoring
-
-Logging
+---
 
 ## Currently Seeking
 
@@ -48,4 +58,21 @@ I'm looking for an entry-level opportunity in:
 - Infrastructure Engineering
 - Systems Administration
 
---------------------------------------
+---
+
+## Current Journey
+
+Building my skills one project at a time while working toward a career in Cloud & DevOps Engineering.
+
+**Next Milestones**
+
+- Terraform Infrastructure
+- Monitoring & Logging
+- Kubernetes
+- AI Learning Platform
+
+---
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/chandler-glover-65b7b1334
