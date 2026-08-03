@@ -2,41 +2,51 @@
 
 ## Cloud & DevOps Engineer
 
-Self-taught Cloud & DevOps engineer focused on building cloud infrastructure, automating deployments, and solving real-world engineering problems. I'm currently developing hands-on projects while pursuing my first Cloud & DevOps engineering opportunity.
+Self-taught Cloud & DevOps engineer building cloud infrastructure, automating deployments, and creating production-inspired projects while preparing for my first engineering role.
 
 ---
 
-## Current Focus
+## Core Technologies
 
 - AWS
 - Docker
+- Terraform
 - Python
 - Linux
+- Git
 - GitHub Actions
 
 ---
 
 ## Featured Projects
 
-### Server Dashboard
+### 🚀 Server Dashboard
 
-Dockerized Flask application displaying real-time server information and system metrics.
+A Dockerized Flask application displaying server information and demonstrating containerization, Infrastructure as Code, CI/CD, and cloud engineering concepts.
 
-**Technologies:** Python • Flask • Docker
+**Technologies**
 
----
-
-### CI/CD Static Website
-
-Automated deployment of a static website using GitHub Actions and AWS services.
-
-**Technologies:** GitHub Actions • AWS S3 • CloudFront
+Python • Flask • Docker • Terraform • GitHub Actions
 
 ---
 
-### Terraform Infrastructure *(Coming Soon)*
+### ☁️ CI/CD Static Website
 
-Infrastructure as Code project demonstrating automated AWS resource provisioning using Terraform.
+Automated deployment of a static website to AWS using GitHub Actions.
+
+**Technologies**
+
+AWS S3 • CloudFront • GitHub Actions
+
+---
+
+### 🏗 Terraform Infrastructure
+
+Provisioned AWS infrastructure using Infrastructure as Code with reusable Terraform configurations.
+
+**Technologies**
+
+Terraform • AWS • Infrastructure as Code
 
 ---
 
@@ -44,35 +54,33 @@ Infrastructure as Code project demonstrating automated AWS resource provisioning
 
 - Kubernetes
 - Monitoring & Logging
-- Infrastructure as Code
+- AWS Production Architecture
 
 ---
 
-## Currently Seeking
+## Seeking Opportunities
 
-I'm looking for an entry-level opportunity in:
-
-- Cloud Engineering
-- DevOps Engineering
-- Cloud Support
-- Infrastructure Engineering
-- Systems Administration
+- Cloud Engineer
+- Junior DevOps Engineer
+- Cloud Support Engineer
+- Infrastructure Engineer
+- Systems Administrator
 
 ---
 
 ## Current Journey
 
-Building my skills one project at a time while working toward a career in Cloud & DevOps Engineering.
+Building one production-inspired project at a time while growing toward a career in Cloud & DevOps Engineering.
 
-**Next Milestones**
+### Next Projects
 
-- Terraform Infrastructure
-- Monitoring & Logging
 - Kubernetes
+- Monitoring Stack (Prometheus & Grafana)
 - AI Learning Platform
 
 ---
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/chandler-glover-65b7b1334
+LinkedIn:
+www.linkedin.com/in/chandler-glover-65b7b1334
